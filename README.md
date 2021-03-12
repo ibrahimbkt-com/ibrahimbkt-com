@@ -4,7 +4,7 @@ Adım İbrahim, Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyi
 
 Discord Sunucular:
 
-Odies Development[https://discord.gg/BjeCuZM44S]
+[Odies Development](https://discord.gg/BjeCuZM44S)
 
 <!---
 ibrahimbkt-com/ibrahimbkt-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
