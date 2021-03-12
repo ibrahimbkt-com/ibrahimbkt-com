@@ -1,6 +1,6 @@
 # Merhaba
 
-Adım İbrahim, 17 yaşındayım Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyim
+Adım İbrahim, Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyim
 
 <!---
 ibrahimbkt-com/ibrahimbkt-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
